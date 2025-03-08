@@ -1,0 +1,21 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Estimated time,Priority,Status
+1208281166589342,2024-09-11,,2025-01-30,Daily Attendance,To do,IBNE KAYESH,ibnekayesh91@gmail.com,,,,"Attendance entry, report, overtime, late time, late deduction",Easy Start,,,,,,
+1208281166589392,2024-09-11,,2024-09-11,Attendance requests application,To do,IBNE KAYESH,ibnekayesh91@gmail.com,,,,,Easy Start,,,,,,
+1208281166589354,2024-09-11,,2025-01-30,Employee leave application,To do,IBNE KAYESH,ibnekayesh91@gmail.com,,,,full and short leave,Easy Start,,,,,,
+1208281166589358,2024-09-11,,2024-09-11,Employee salary grade,To do,IBNE KAYESH,ibnekayesh91@gmail.com,,,,"salary breakdown, increment",Easy Start,,,,,,
+1208281166589360,2024-09-11,,2024-09-14,Salary payslip,To do,IBNE KAYESH,ibnekayesh91@gmail.com,,,,"salary sheet, allowance, deductions",Easy Start,,Salary cycle lists,,,,
+1208281166589387,2024-09-11,,2024-09-11,Employee salary payment,To do,IBNE KAYESH,ibnekayesh91@gmail.com,,,,"bank payment, cash payment",Easy Start,,,,,,
+1208281166589399,2024-09-11,,2024-09-11,Employee bonus,To do,IBNE KAYESH,ibnekayesh91@gmail.com,,,,"bonus, arrear, income tax",Easy Start,,,,,,
+1208281166589416,2024-09-11,,2024-09-16,Employee salary breakdown lists,To do,IBNE KAYESH,ibnekayesh91@gmail.com,,,,earnings and deductions lists,Easy Start,,,,,,
+1208313821628912,2024-09-16,,2024-09-16,,,,,,,,,,Employee salary breakdown lists,,,,,
+1208328306711170,2024-09-17,,2024-09-17,test task 1,Doing,IBNE KAYESH,ibnekayesh91@gmail.com,,,,,Easy Start,,,,,,
+1208300107743402,2024-09-14,2024-09-14,2024-09-14,Employee salary cycle,Done,IBNE KAYESH,ibnekayesh91@gmail.com,,2024-09-14,,,Easy Start,,,,,,
+1208281166589397,2024-09-11,2024-09-14,2024-09-14,Employee work section,Done,IBNE KAYESH,ibnekayesh91@gmail.com,,2024-09-13,,merge with designations,Easy Start,,,,,,
+1208281166589356,2024-09-11,2024-09-14,2024-09-14,Salary cycle lists,Done,IBNE KAYESH,ibnekayesh91@gmail.com,,2024-09-14,,from date to date salary payment,Easy Start,,,Salary payslip,,,
+1208281166589326,2024-09-11,2024-09-13,2024-09-13,Employee working shift,Done,IBNE KAYESH,ibnekayesh91@gmail.com,,2024-09-12,,"employee (assigned) working shift, from date - to date, duty roster",Easy Start,,Working shift list,,,,On track
+1208281166589336,2024-09-11,2024-09-13,2024-09-13,Employee designations,Done,IBNE KAYESH,ibnekayesh91@gmail.com,,2024-09-12,,designation with from date - to date,Easy Start,,Designation list,,,,On track
+1208281166589330,2024-09-11,2024-09-13,2024-09-13,Designation list,Done,IBNE KAYESH,ibnekayesh91@gmail.com,,2024-09-12,,designation lists,Easy Start,,,Employee designations,,,On track
+1208281166589324,2024-09-11,2024-09-12,2024-09-12,Working shift list,Done,IBNE KAYESH,ibnekayesh91@gmail.com,,2024-09-12,,working shift lists,Easy Start,,,Employee working shift,,,On track
+1208281166589320,2024-09-11,2024-09-12,2025-01-30,Employee education,Done,IBNE KAYESH,ibnekayesh91@gmail.com,,2024-09-11,,education and certifications,Easy Start,,,,,,
+1208281166589318,2024-09-11,2024-09-11,2025-01-30,Employee address,Done,IBNE KAYESH,ibnekayesh91@gmail.com,,2024-09-11,,present / permanent address,Easy Start,,,,,,
+1208281166589322,2024-09-11,2024-09-12,2025-01-30,Employee experiences,Done,IBNE KAYESH,ibnekayesh91@gmail.com,,2024-09-11,,previous job experiences / workshops,Easy Start,,,,,,
