@@ -42,5 +42,14 @@ namespace ap.api.Areas.Settings.Controllers
             var resultJson = _roleService.GetById(parameters);
             return Ok(resultJson);
         }
+
+        [Route("delete")]
+        [HttpPost]
+        public IActionResult Delete ([FromBody] dynamic data)
+        {
+            var parameters = JsonConvert.DeserializeObject<Dictionary<string, object>>(data.ToString());
+            var resultJson = _roleService.Delete(parameters);
+            return Ok(resultJson);
+        }
     }
 }
